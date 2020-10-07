@@ -1,1 +1,1 @@
-# affandeshmukh-flask-blog
+# flask-blog
